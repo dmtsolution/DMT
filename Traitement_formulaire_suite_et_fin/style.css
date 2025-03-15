@@ -1,0 +1,32 @@
+.contenaire{
+    display: flex;
+    justify-content: center;
+    margin-top: 5em;
+}
+
+.fils{
+    width: 400px;
+    background-color: rgb(255, 90, 1);
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+input{
+    width: 100%;
+}
+
+button{
+    width: 100%;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: 1px;
+    border-radius: 10px;
+    padding: 5px;
+    font-weight: bold;
+
+}
+
+label{
+    color:white
+}
